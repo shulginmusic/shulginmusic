@@ -16,12 +16,12 @@
 - Data: SQL, MongoDB
 - Always learning something new!
 
-# Fun Facts
+# Fun Facts ✨
 - I went to college for music 🎸
 - I speak Russian fluently 🪆
 - My favorite city is Stockholm, Sweden (featured in the picture above) ❤️
 
-# Let's Build Something Together!
+# Let's Build Something Together! 🔨
 - efim@shulginmusic.com
 
 
