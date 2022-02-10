@@ -1,7 +1,6 @@
-<img src="img/gamla-stan.jpg" alt="Highway one south of San Jose" width="200" style="border: 4px solid #808080">
+<img src="img/gamla-stan.jpg" alt="Highway one south of San Jose" width="150" style="border: 4px solid #808080">
 
-# Hello / Привет 🖥️
-## I'm Efim / Ефим! 
+# Hello / Привет; I'm Efim / Ефим!  🖥️
 ### A coder based in San Francisco
 
 #
