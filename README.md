@@ -1,7 +1,7 @@
 <img src="img/gamla-stan.jpg" alt="Highway one south of San Jose" width="150" style="border: 4px solid #808080">
 
-# Hello / Привет; I'm Efim / Ефим!  🖥️
-### A coder based in San Francisco
+# Hello / Привет; I'm Efim / Ефим!  🖥️ 
+### A coder based in San Francisco 🌁
 
 #
 
@@ -17,9 +17,9 @@
 - Always learning something new!
 
 # Fun Facts
-- I went to college for music
-- I speak Russian fluently
-- My favorite city is Stockholm, Sweden (featured in the picture above)
+- I went to college for music 🎸
+- I speak Russian fluently 🪆
+- My favorite city is Stockholm, Sweden (featured in the picture above) ❤️
 
 # Let's Build Something Together!
 - efim@shulginmusic.com
