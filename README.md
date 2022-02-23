@@ -6,8 +6,9 @@
 #
 
 # Currently 🧭
-- 👷‍♂️ Full Stack Developer @ Teaching Nomad  
-- 📱 Learning native iOS development
+- Full Stack Developer @ Teaching Nomad 👷‍♂️   
+- Learning Angular
+- Learning native iOS development 📱 
 
 # Stack ⚙️ 
 - Languages: Java, Python, JavaScript, Swift
