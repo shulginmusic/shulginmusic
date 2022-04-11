@@ -7,14 +7,12 @@
 
 # Currently 🧭
 - Full Stack Developer @ Teaching Nomad 👷‍♂️   
-- Learning Angular
-- Learning native iOS development 📱 
 
 # Stack ⚙️ 
 - Languages: Java, Python, JavaScript, Swift
-- Backend: Spring Boot, Flask, Django, Next.js
-- Frontend: React, Angular, Bootstrap, Tailwind CSS
-- Data: SQL, MongoDB
+- Backend: Spring Boot, Flask
+- Frontend: Bootstrap, Tailwind CSS
+- Data: SQL
 - Always learning something new!
 
 # Fun Facts ✨
