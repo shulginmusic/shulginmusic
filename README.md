@@ -11,7 +11,7 @@
 # Stack ⚙️ 
 - Languages: Java, Python, JavaScript, Swift
 - Backend: Spring Boot, Flask
-- Frontend: Bootstrap, Tailwind CSS
+- Frontend: Bootstrap
 - Data: SQL
 - Always learning something new!
 
