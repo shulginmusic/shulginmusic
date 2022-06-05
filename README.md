@@ -6,7 +6,7 @@
 #
 
 # Currently 🧭
-- Full Stack Developer @ Teaching Nomad 👷‍♂️   
+- Associate Software Development Engineer @ Workday 👷‍♂️   
 
 # Stack ⚙️ 
 - Languages: Java, Python, JavaScript, Swift
